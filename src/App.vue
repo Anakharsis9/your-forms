@@ -1,9 +1,9 @@
-<script setup lang="ts">
-import { ref } from "vue";
-</script>
-
 <template>
-  <div></div>
+  <v-app>
+    <v-main>
+      
+    </v-main>
+  </v-app>
 </template>
 
-<style></style>
+<script lang="ts" setup></script>
